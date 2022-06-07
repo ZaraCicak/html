@@ -1,0 +1,14 @@
+img {
+  width: 250px;
+  border-radius: 125px;
+  float: left;
+  margin-right: 10px;
+}
+
+.username {
+  font-weight: bold;
+}
+strong {
+  color: green;
+  font-style: normal;
+}
