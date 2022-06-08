@@ -1,0 +1,40 @@
+/*
+* {
+  margin: 0%;
+  padding: 0%;
+}
+*/
+
+body {
+  background-color: rgb(10, 10, 8);
+  color: rgb(133, 60, 105);
+
+  font: 10px Arial, Helvetica, sans-serif;
+  line-height: 2em;
+  margin: 0%;
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+}
+
+.CSS-1 {
+  background-color: blue;
+  color: rgb(74, 107, 136);
+
+  border: 1cm rgb(82, 177, 194) solid;
+  padding: 20%;
+}
+
+.CSS-1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 250%;
+  line-height: 2em;
+}
+
+.CSS-2 {
+  border: 1cm;
+  padding: 5%;
+  margin: 20%;
+}
